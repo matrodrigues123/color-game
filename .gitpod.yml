@@ -1,8 +1,5 @@
-image: gitpod/workspace-full-vnc
 ports:
-  - port: 5900
-    onOpen: ignore
-  - port: 6080
+  - port: 8000
     onOpen: open-preview
 tasks:
   - init: 
