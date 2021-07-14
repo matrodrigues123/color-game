@@ -1,0 +1,44 @@
+.jumbotron-fluid
+{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgba(137, 43, 226, 0.541);
+    color: white;
+    margin-bottom: 0px;
+}
+
+.gameActions
+{
+    color: black;
+    background-color: white;
+    margin-bottom: 10px;
+}
+.gameActionsHover
+{
+    color:  rgba(137, 43, 226, 0.541);
+    background-color: white;
+}
+p
+{
+    margin: 5px;
+    font-size: large;
+    float: left;
+    padding-right: 33%;
+}
+body
+{
+    background-color: #232323;
+}
+button
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: 0px;
+    margin: 5px;
+    transition: background 0.6s;
+}
+.buttons
+{
+    text-align: center;
+}
